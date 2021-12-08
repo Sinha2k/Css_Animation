@@ -1277,7 +1277,9 @@ h4{
   .galerry{
     display: none;
   }
-  
+  .video-page{
+    display:none;
+  }
   .light {
       width: 200px;
       height: 0px;
